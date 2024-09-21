@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mathang", "mathang.csproj", "{A3DB53DE-FF6A-4899-BAEC-5561B78F82C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai 5 trang 77", "..\Bai 5 trang 77\Bai 5 trang 77.csproj", "{DE2A3222-C883-44AA-B1AB-CEB92EF86B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3DB53DE-FF6A-4899-BAEC-5561B78F82C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DB53DE-FF6A-4899-BAEC-5561B78F82C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DB53DE-FF6A-4899-BAEC-5561B78F82C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DB53DE-FF6A-4899-BAEC-5561B78F82C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2A3222-C883-44AA-B1AB-CEB92EF86B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2A3222-C883-44AA-B1AB-CEB92EF86B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2A3222-C883-44AA-B1AB-CEB92EF86B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2A3222-C883-44AA-B1AB-CEB92EF86B02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {029F5528-FA53-4554-A8D3-6095F16905E7}
+	EndGlobalSection
+EndGlobal

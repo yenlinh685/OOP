@@ -1,0 +1,7 @@
+D:\Buoi2 OOP\Bai 3 trang 76\bin\Debug\Bai 3 trang 76.exe.config
+D:\Buoi2 OOP\Bai 3 trang 76\bin\Debug\Bai 3 trang 76.exe
+D:\Buoi2 OOP\Bai 3 trang 76\bin\Debug\Bai 3 trang 76.pdb
+D:\Buoi2 OOP\Bai 3 trang 76\obj\Debug\Bai 3 trang 76.csproj.AssemblyReference.cache
+D:\Buoi2 OOP\Bai 3 trang 76\obj\Debug\Bai 3 trang 76.csproj.CoreCompileInputs.cache
+D:\Buoi2 OOP\Bai 3 trang 76\obj\Debug\Bai 3 trang 76.exe
+D:\Buoi2 OOP\Bai 3 trang 76\obj\Debug\Bai 3 trang 76.pdb

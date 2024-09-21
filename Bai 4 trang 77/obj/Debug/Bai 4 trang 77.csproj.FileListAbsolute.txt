@@ -1,0 +1,7 @@
+D:\Buoi2 OOP\Bai 4 trang 77\bin\Debug\Bai 4 trang 77.exe.config
+D:\Buoi2 OOP\Bai 4 trang 77\bin\Debug\Bai 4 trang 77.exe
+D:\Buoi2 OOP\Bai 4 trang 77\bin\Debug\Bai 4 trang 77.pdb
+D:\Buoi2 OOP\Bai 4 trang 77\obj\Debug\Bai 4 trang 77.csproj.AssemblyReference.cache
+D:\Buoi2 OOP\Bai 4 trang 77\obj\Debug\Bai 4 trang 77.csproj.CoreCompileInputs.cache
+D:\Buoi2 OOP\Bai 4 trang 77\obj\Debug\Bai 4 trang 77.exe
+D:\Buoi2 OOP\Bai 4 trang 77\obj\Debug\Bai 4 trang 77.pdb
